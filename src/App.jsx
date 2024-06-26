@@ -9,8 +9,8 @@ import { Gallery } from "./components/gallery";
 import { Investors } from "./components/testimonials";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
-import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
+import JsonData from "./data/data.json";
 import "./App.css";
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
@@ -20,9 +20,26 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
 
 const App = () => {
   const [landingPageData, setLandingPageData] = useState({});
+
   useEffect(() => {
-    setLandingPageData(JsonData);
+    const fetchData = async () => {
+      try {
+        const response = await fetch(
+          "https://raw.githubusercontent.com/Nithin-Kamineni/visionDropAIWebsite/main/src/data/data.json"
+        );
+        const data = await response.json();
+        setLandingPageData(data);
+      } catch (error) {
+        console.error("Error fetching data:", error);
+      }
+    };
+
+    fetchData();
   }, []);
+
+  // useEffect(() => {
+  //   setLandingPageData(JsonData);
+  // }, []);
 
   return (
     <div>
@@ -40,6 +57,7 @@ const App = () => {
       />
       <Investors
         data={landingPageData.Investors}
+        description={landingPageData.InvestorDesription}
         funding={landingPageData.Funding}
       />
       <Contact data={landingPageData.Contact} />

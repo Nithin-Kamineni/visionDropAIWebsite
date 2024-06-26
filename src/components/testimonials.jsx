@@ -7,7 +7,7 @@ export const Investors = (props) => {
       <div className="container">
         <div className="section-title text-center">
           <h2>Investors</h2>
-          <p>VisionDrop AI is committed to making a higher quality future for everyone. If you share our passion in leveraging cutting-edge technology for healthier and smarter lifestyles, then we invite you to join our endeavor.</p>
+          <p>{props.description}</p>
         </div>
         <div className="row">
           {props.data
@@ -33,18 +33,17 @@ export const Investors = (props) => {
         </div>
         <div className="funding-company">
           {props.funding
-           ? props.funding.map((d,i) => (
-              <div className="funding-box">
-                <img src={d.img} alt="" className="funding-image" />
-                <div className="funding-meta">
-                  <h4 dangerouslySetInnerHTML={{ __html: d.text }}></h4>
-                  {d.name1 && <p>{d.name1}</p>}
-                  {d.name2 && <p>{d.name2}</p>}
+            ? props.funding.map((d, i) => (
+                <div className="funding-box">
+                  <img src={d.img} alt="" className="funding-image" />
+                  <div className="funding-meta">
+                    <h4 dangerouslySetInnerHTML={{ __html: d.text }}></h4>
+                    {d.name1 && <p>{d.name1}</p>}
+                    {d.name2 && <p>{d.name2}</p>}
+                  </div>
                 </div>
-              </div>
-           ))
-          : "loading"}
-                
+              ))
+            : "loading"}
         </div>
       </div>
     </div>
