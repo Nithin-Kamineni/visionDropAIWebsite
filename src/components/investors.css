@@ -1,0 +1,41 @@
+.funding-company {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .funding-box {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 300px; /* Adjust the width as necessary */
+  }
+  
+  .funding-image {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    margin-right: 15px;
+  }
+  
+  .funding-meta {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .funding-meta h4 {
+    margin: 0;
+    font-size: 1.2em;
+  }
+  
+  .funding-meta p {
+    margin: 0;
+    color: #777;
+  }
+  

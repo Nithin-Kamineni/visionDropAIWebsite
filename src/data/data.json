@@ -1,0 +1,176 @@
+{
+  "Header": {
+    "title": "VisionDrop AI",
+    "paragraph": "Innovating QA/QC for All"
+  },
+  "About": {
+    "paragraph": "VisionDrop AI is a QA/QC company, we innovate affordable kits for home testing that deliver lab accurate results. We are dedicated to empowering individuals to take quality control into their own hands. With our core technologies, microfluidics and smartphone apps, a smartphone can become a personal laboratory.",
+    "Why": [
+      "Water Testing",
+      "F&B Testing"
+    ],
+    "Why2": [
+      "Cosmetic Testing",
+      "Traditional Chinese Medicine Testing"    ]
+  },
+  "Products": {
+    "paragraph": "We are developing a drinking water home lab kit.",
+    "Why": [
+      "Affordable",
+      "Quantitative",
+      "User-friendly",
+      "Rapid"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "WATER TESTING",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+  ],
+  "Funding": [
+    {
+      "img": "https://media.licdn.com/dms/image/C4E0BAQH4YoQ1L_piMg/company-logo_200_200/0/1630652114876/hkust_logo?e=2147483647&v=beta&t=uyKroOWrpiZkladtPwMhqGHZ8a1Qrhwpte0haz83E_o",
+      "text": "<span style='color: darkblue;'>HKUST</span>",
+      "name1": "ENTREPRENEURSHIP CENTER",
+      "name2": "香港科技大學創業中心"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWYCGBPMlqshtGaZseTFUUDxKlyGLB96aXjOOFiaD5EOdcthtYaZVup3zR0ouspMiTe8&usqp=CAU",
+      "text": "<span style='color: darkblue;'>HK</span><span style='color: orange;'>STP</span>",
+      "name1": "香港科技園"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/Steevanson_Profile.png",
+      "name": "Steevanson Bayer",
+      "job": "Chief Executive Officer"
+    },
+    {
+      "img": "img/team/Wenting_Profile.png",
+      "name": "Wenting Qiu, PhD",
+      "job": "Chief Technical Officer"
+    },
+    {
+      "img": "img/team/Marco_Profile.png",
+      "name": "Gianmarco Suarez, PhD",
+      "job": "Chief Operations Officer"
+    },
+    {
+      "img": "img/team/Yuki_Profile.png",
+      "name": "Yuki Tang",
+      "job": "Operations Manager"
+    },
+    {
+      "img": "img/team/Niky_Profile.png",
+      "name": "Nithin Kamineni",
+      "job": "Digital Product Manager"
+    }
+  ],
+  "Contact": {
+    "address": "7/F, 7161A near Lift 33, EC Building, Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong",
+    "phone": "+852 6368 9975",
+    "email": "cleveraidroplets@gmail.com",
+    "youtube": "https://www.youtube.com/@cleveraidroplets",
+    "facebook": "fb.com",
+    "twitter": "twitter.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-flask",
+      "title": "Chemistry",
+      "text": "Color changing reactions indicate presence of pollutants."
+    },
+    {
+      "icon": "fa fa-circle-o-notch",
+      "title": "Microfluidics",
+      "text": "Miniscule channels and chambers enable multiplexing of tests."
+    },
+    {
+      "icon": "fa fa-mobile",
+      "title": "Smartphone App",
+      "text": "AI-powered App turns your smartphone into a personal laboratory."
+    },	
+    {
+      "icon": "fa fa-code",
+      "title": "Deep Learning",
+      "text": "Language model designed for quantitative analysis to condense report data"
+    }
+  ]
+}
