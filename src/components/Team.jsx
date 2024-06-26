@@ -6,10 +6,7 @@ export const Team = (props) => {
       <div className="container">
         <div className="col-md-8 col-md-offset-2 section-title">
           <h2>Meet the Team</h2>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
-          </p>
+          <p>{props.description}</p>
         </div>
         <div id="row">
           {props.data
@@ -21,6 +18,9 @@ export const Team = (props) => {
                     <div className="caption">
                       <h4>{d.name}</h4>
                       <p>{d.job}</p>
+                      <p style={{ color: "black", fontSize: "14" }}>
+                        {d.description}
+                      </p>
                     </div>
                   </div>
                 </div>

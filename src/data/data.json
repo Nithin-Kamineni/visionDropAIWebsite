@@ -13,6 +13,28 @@
       "Cosmetic Testing",
       "Traditional Chinese Medicine Testing"    ]
   },
+  "CoreTech": [
+    {
+      "icon": "fa fa-flask",
+      "title": "Chemistry",
+      "text": "Color changing reactions indicate presence of pollutants."
+    },
+    {
+      "icon": "fa fa-circle-o-notch",
+      "title": "Microfluidics",
+      "text": "Miniscule channels and chambers enable multiplexing of tests."
+    },
+    {
+      "icon": "fa fa-mobile",
+      "title": "Smartphone App",
+      "text": "AI-powered App turns your smartphone into a personal laboratory."
+    },	
+    {
+      "icon": "fa fa-code",
+      "title": "Deep Learning",
+      "text": "Language model designed for quantitative analysis to condense report data"
+    }
+  ],
   "Products": {
     "paragraph": "We are developing a drinking water home lab kit.",
     "Why": [
@@ -21,6 +43,61 @@
       "User-friendly",
       "Rapid"
     ]
+  },
+  "TeamDescription":"Our team of experts in the fields of microfluidics, chemistry, and artificial intelligence is uniquely positioned to deliver the next-generation of QA/QC technologies. We are building a future in which the individual can verify the quality of the products they consume.",
+  "Team": [
+    {
+      "img": "img/team/Steevanson_Profile.png",
+      "name": "Steevanson Bayer",
+      "job": "Chief Executive Officer",
+      "description": "HKUST PhD candidate in Chemistry, focuses on detection chemistries"
+    },
+    {
+      "img": "img/team/Wenting_Profile.png",
+      "name": "Wenting Qiu, PhD",
+      "job": "Chief Technical Officer",
+      "description": "HKUST PhD in Chemistry, specializes in microfluidics"
+    },
+    {
+      "img": "img/team/Marco_Profile.png",
+      "name": "Gianmarco Suarez, PhD",
+      "job": "Chief Operations Officer",
+      "description": "HKUST PhD in Chemistry, specializes in assay systems"
+    },
+    {
+      "img": "img/team/Yuki_Profile.png",
+      "name": "Yuki Tang",
+      "job": "Operations Manager",
+      "description": "HKUST BSc in Biotechnology, with sales & marketing experience from AIA and MSD"
+    },
+    {
+      "img": "img/team/Niky_Profile.png",
+      "name": "Nithin Kamineni",
+      "job": "Digital Product Manager",
+      "description": "Graduated from University of Florida, specializes in artificial intelligence"
+    }
+  ],
+  "Investors":[],
+  "Funding": [
+    {
+      "img": "https://media.licdn.com/dms/image/C4E0BAQH4YoQ1L_piMg/company-logo_200_200/0/1630652114876/hkust_logo?e=2147483647&v=beta&t=uyKroOWrpiZkladtPwMhqGHZ8a1Qrhwpte0haz83E_o",
+      "text": "<span style='color: darkblue;'>HKUST</span>",
+      "name1": "ENTREPRENEURSHIP CENTER",
+      "name2": "香港科技大學創業中心"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWYCGBPMlqshtGaZseTFUUDxKlyGLB96aXjOOFiaD5EOdcthtYaZVup3zR0ouspMiTe8&usqp=CAU",
+      "text": "<span style='color: darkblue;'>HK</span><span style='color: orange;'>STP</span>",
+      "name1": "香港科技園"
+    }
+  ],
+  "Contact": {
+    "address": "7/F, 7161A near Lift 33, EC Building, Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong",
+    "phone": "+852 6368 9975",
+    "email": "cleveraidroplets@gmail.com",
+    "youtube": "https://www.youtube.com/@cleveraidroplets",
+    "facebook": "fb.com",
+    "twitter": "twitter.com"
   },
   "Gallery": [
     {
@@ -99,78 +176,6 @@
       "icon": "fa fa-pie-chart",
       "name": "Consectetur adipiscing",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
-  ],
-  "Testimonials": [
-  ],
-  "Funding": [
-    {
-      "img": "https://media.licdn.com/dms/image/C4E0BAQH4YoQ1L_piMg/company-logo_200_200/0/1630652114876/hkust_logo?e=2147483647&v=beta&t=uyKroOWrpiZkladtPwMhqGHZ8a1Qrhwpte0haz83E_o",
-      "text": "<span style='color: darkblue;'>HKUST</span>",
-      "name1": "ENTREPRENEURSHIP CENTER",
-      "name2": "香港科技大學創業中心"
-    },
-    {
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWYCGBPMlqshtGaZseTFUUDxKlyGLB96aXjOOFiaD5EOdcthtYaZVup3zR0ouspMiTe8&usqp=CAU",
-      "text": "<span style='color: darkblue;'>HK</span><span style='color: orange;'>STP</span>",
-      "name1": "香港科技園"
-    }
-  ],
-  "Team": [
-    {
-      "img": "img/team/Steevanson_Profile.png",
-      "name": "Steevanson Bayer",
-      "job": "Chief Executive Officer"
-    },
-    {
-      "img": "img/team/Wenting_Profile.png",
-      "name": "Wenting Qiu, PhD",
-      "job": "Chief Technical Officer"
-    },
-    {
-      "img": "img/team/Marco_Profile.png",
-      "name": "Gianmarco Suarez, PhD",
-      "job": "Chief Operations Officer"
-    },
-    {
-      "img": "img/team/Yuki_Profile.png",
-      "name": "Yuki Tang",
-      "job": "Operations Manager"
-    },
-    {
-      "img": "img/team/Niky_Profile.png",
-      "name": "Nithin Kamineni",
-      "job": "Digital Product Manager"
-    }
-  ],
-  "Contact": {
-    "address": "7/F, 7161A near Lift 33, EC Building, Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong",
-    "phone": "+852 6368 9975",
-    "email": "cleveraidroplets@gmail.com",
-    "youtube": "https://www.youtube.com/@cleveraidroplets",
-    "facebook": "fb.com",
-    "twitter": "twitter.com"
-  },
-  "Features": [
-    {
-      "icon": "fa fa-flask",
-      "title": "Chemistry",
-      "text": "Color changing reactions indicate presence of pollutants."
-    },
-    {
-      "icon": "fa fa-circle-o-notch",
-      "title": "Microfluidics",
-      "text": "Miniscule channels and chambers enable multiplexing of tests."
-    },
-    {
-      "icon": "fa fa-mobile",
-      "title": "Smartphone App",
-      "text": "AI-powered App turns your smartphone into a personal laboratory."
-    },	
-    {
-      "icon": "fa fa-code",
-      "title": "Deep Learning",
-      "text": "Language model designed for quantitative analysis to condense report data"
     }
   ]
 }
